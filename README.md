@@ -20,3 +20,7 @@ This project focuses solely on the frontend — the AI model integration will be
 Frontend: React + TypeScript + TailwindCSS / CSS Modules
 
 Routing: React Router 
+
+Demo video is available in this repo named as "Screencast from 11-06-25 02:20:30 AM IST.webm".
+
+Thank you.
